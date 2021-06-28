@@ -621,7 +621,7 @@ footer .social i {
   }
 }
 
-@media (min-width: 992px) {
+@media (min-width: 992px) and (max-width: 1119px) {
   :root {
     --title-font-size: 2.25rem;
     --subtitle-font-size: 1.125rem;
@@ -740,7 +740,7 @@ footer .social i {
   }
 }
 
-@media (min-width: 767px) {
+@media (min-width: 767px) and (max-width: 991px) {
   :root {
     --title-font-size: 2.25rem;
     --subtitle-font-size: 1.125rem;
